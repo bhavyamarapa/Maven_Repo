@@ -11,12 +11,12 @@
     <repository>
     <name>plugin-releases</name>
     <id>releases</id>
-    <url>http://34.229.154.58:8080/nexus-2.14.6-02/content/repositories/releases</url>
+    <url>http://54.158.30.134:8080/nexus-2.14.6-02/content/repositories/releases/url>
     </repository>
     <snapshotRepository>
     <id>snapshots</id>
     <name>plugins-snapshot</name>
-    <url>http://34.229.154.58:8080/nexus-2.14.6-02/content/repositories/snapshots</url>
+    <url>http://54.158.30.134:8080/nexus-2.14.6-02/content/repositories/snapshots</url>
     </snapshotRepository>
   </distributionManagement>
 <scm>
